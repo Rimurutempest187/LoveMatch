@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+Up# -*- coding: utf-8 -*-
 """
 =============================================================================
  Telegram Matchmaking Bot — single-file production-oriented application
