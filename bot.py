@@ -102,7 +102,7 @@ class Settings(BaseSettings):
     )
 
     # --- Mandatory ---
-    bot_token: str = "8415210006:AAHyQbhTz9-dbU_Sht5ts0lDhpIVuvSIcqc"
+    bot_token: str = "8415210006:AAEFffp40t3BHAeDACAkUJS8UcjFfQyBKdw"
 
     # --- Database ---
     # Production : postgresql+asyncpg://user:pass@host:5432/matchmaking
